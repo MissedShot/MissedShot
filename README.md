@@ -18,6 +18,7 @@
 - Also work with: **C++** and **Swift**
 - Interested in **VPN infrastructure** and setups based on **VLESS / Reality**
 - **Linux enthusiast**: tooling, self-hosting, and system tinkering
+- macOS & iOS Beta participant
 - I care about clean UI, performance, and developer experience
 
 ### Tech Stack
