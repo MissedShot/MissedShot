@@ -34,6 +34,9 @@ I care about UI that feels good, code that does not fight back, and tools that a
 
 ### projects
 
+- **[Skyshift](https://github.com/MissedShot/skyshift)** · **[Live demo](https://missedshot.github.io/skyshift/)** <br />
+  Illustrated, dependency-free light and dark mode Web Component. One JavaScript file with Shadow DOM isolation, persistence, accessibility, customization, and a small public API.
+
 - [Gemini Desktop for macOS](https://github.com/MissedShot/Gemini-desktop-macos)  
   Proof-of-concept macOS desktop app. Swift, native UI experiments, and a small attempt at making AI feel closer than a browser tab.
 
