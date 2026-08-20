@@ -32,10 +32,15 @@ I care about UI that feels good, code that does not fight back, and tools that a
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,swift,cpp,linux,bash,html,css,git,github,vscode&perline=14" alt="Tech stack" />
 </p>
 
-### projects
+### highlights
+
+- **[Hindsight — Peer Cards fork](https://github.com/MissedShot/hindsight)** · upstream: [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) <br />
+  Extended agent-memory stack with evidence-backed Peer Cards, claim lock/delete controls, bounded incremental refresh, correction workflows, lifecycle telemetry, and Control Plane tooling.
 
 - **[Skyshift](https://github.com/MissedShot/skyshift)** · **[Live demo](https://missedshot.github.io/skyshift/)** <br />
   Illustrated, dependency-free light and dark mode Web Component. One JavaScript file with Shadow DOM isolation, persistence, accessibility, customization, and a small public API.
+
+### more projects
 
 - [Gemini Desktop for macOS](https://github.com/MissedShot/Gemini-desktop-macos)  
   Proof-of-concept macOS desktop app. Swift, native UI experiments, and a small attempt at making AI feel closer than a browser tab.
